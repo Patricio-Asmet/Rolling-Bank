@@ -31,7 +31,14 @@ HEAD
     align-items: center;
     font-size: 38px;
   }
-
+  
+  .card {
+    background-color: #234579;
+  }
+  
+  .card-title, .card-text {
+    color: #FFFFFF; 
+  }
 
   .titulo {
     font-family: "Black Han Sans", sans-serif;
