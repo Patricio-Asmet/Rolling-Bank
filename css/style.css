@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap");
 body{
     min-height: 100vh;
     display: flex;
@@ -17,7 +18,7 @@ main{
     width: 280px;
 }
 
-<<<<<<< HEAD
+
 .titulo{
     font-family: 'Black Han Sans', cursive;
     font-size: 60px;
@@ -29,7 +30,16 @@ main{
     align-items: center;
     font-size: 38px;
   }
-=======
+
+  .titulo {
+    font-family: "Black Han Sans", sans-serif;
+  }
+  
+  .fuenteBlackHan{
+    font-family: 'Black Han Sans', sans-serif;
+  }
+  
+
 .Dedoarriba{
     color: red;
 }
@@ -78,4 +88,4 @@ main{
         margin-right: 20px;
     }
 }
->>>>>>> main
+
