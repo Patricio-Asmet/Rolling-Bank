@@ -53,6 +53,8 @@ HEAD
     margin-top: 10px;
     margin-bottom: 10px;
     width: auto;
+    padding-left: 50px;
+    padding-right: 50px;
     }
 
 /* dispositivos lg */
@@ -64,7 +66,7 @@ HEAD
    
    
 }
-@media all and (min-width:1026px){
+@media all and (min-width:1025px){
     .cardsbajoslider{
         display: flex;
         flex-direction: row;
